@@ -1,5 +1,4 @@
-
-![Farm Sales Dashboard](farm-sales.png)
+ [farmsalesdashboard](./farm-sales.png)
 # 🐄 Farm Sales Analytics Dashboard
 ## 📌 Overview
 This project presents a comprehensive Farm Sales Analytics Dashboard built using Power BI.  
