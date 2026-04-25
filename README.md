@@ -1,5 +1,5 @@
 
-![Farm Sales Dashboard](farm sales.JPG)
+![Farm Sales Dashboard](farm-sales.png)
 # 🐄 Farm Sales Analytics Dashboard
 ## 📌 Overview
 This project presents a comprehensive Farm Sales Analytics Dashboard built using Power BI.  
@@ -15,7 +15,6 @@ It provides actionable insights into sales performance, product demand, and dist
 - Excel  
 ---
 ## 📊 Dashboard Preview
-![Farm Sales Dashboard](farm_dashboard.png)
 ---
 ## 👩‍💻 Author
  Senior Esraa Hassan & Data Analysi 
