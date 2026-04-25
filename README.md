@@ -1,3 +1,4 @@
+<img width="887" height="506" alt="farm sales" src="https://github.com/user-attachments/assets/d89cfe81-5fde-44fa-83dc-69c28fb613f3" />
 
 # 🐄 Farm Sales Analytics Dashboard
 ![Dashboard](./farm-sales.png)
