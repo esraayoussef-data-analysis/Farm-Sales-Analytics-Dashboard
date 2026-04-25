@@ -1,5 +1,6 @@
- [farmsalesdashboard](./farm-sales.png)
+
 # 🐄 Farm Sales Analytics Dashboard
+![Farm Sales Dashboard](farm-sales.png)
 ## 📌 Overview
 This project presents a comprehensive Farm Sales Analytics Dashboard built using Power BI.  
 It provides actionable insights into sales performance, product demand, and distribution channels.
